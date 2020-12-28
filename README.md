@@ -27,7 +27,7 @@ Uses the python dictionary to store the key value pairs. However this process is
 ### Print Characteristics
 - The data dictionary is printed in a JSON format in `data_store.json` when the print operation is called.
 
-### You can reach me on:
+## You can reach me on:
 [2]: https://www.linkedin.com/in/rahul-hegde-0955391a5/
 [3]: https://rahulhegde.ml/
 [5]: https://medium.com/@rahulhegde97
