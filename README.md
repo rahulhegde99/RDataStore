@@ -26,3 +26,13 @@ Uses the python dictionary to store the key value pairs. However this process is
 
 ### Print Characteristics
 - The data dictionary is printed in a JSON format in `data_store.json` when the print operation is called.
+
+### You can reach me on:
+[2]: https://www.linkedin.com/in/rahul-hegde-0955391a5/
+[3]: https://rahulhegde.ml/
+[5]: https://medium.com/@rahulhegde97
+
+ [![linkedin](https://img.icons8.com/color/48/000000/linkedin.png)][2]
+ [![website](https://img.icons8.com/fluent/48/000000/domain.png)][3]
+ [![medium](https://img.icons8.com/color/48/000000/medium-monogram.png)][5]
+ <a href="https://auth.geeksforgeeks.org/user/rahulhegde97/articles/"><img src="https://raw.githubusercontent.com/rahulhegde99/rahulhegde99/master/QNHrwL2q_400x400.jpg" width="40"></a>
